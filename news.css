@@ -1,0 +1,117 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+form{
+    width: 500px;
+    font-style: italic;
+    color: blue;
+}
+
+::placeholder{
+    font-style: italic;  
+}
+.head{
+    color: #eee;
+}
+.card {
+    display: flex;
+    box-shadow: inset;
+    width: 50rem;
+    margin: auto;
+    text-align: left;
+
+}
+h2{
+    size: 100px;
+    color: black;
+}
+h3{
+    font-size: medium;
+    font-style: italic;
+    color: brown;
+}
+h5{
+    text-align: center;
+    color: black !important;
+    font-size: 30px;
+    margin-top:10px ;
+    
+}
+.heading {
+    margin: 0 5%;
+}
+p{
+    font-size: small;
+}
+nav{
+  height: 110px;
+  /* position: fixed !important; */
+  /* margin-bottom: 112px !important; */
+}
+.first {
+    padding-top: 110px;
+}
+
+
+.navbar{
+    font-weight: bolder;
+    
+}
+
+
+.images{
+    width: 200px;
+    float: right;
+    object-fit: cover;
+    /* object-position: 50% 50%; */
+
+    /* padding: 0;
+    border: 0;
+    box-sizing: border-box; */
+}
+
+
+.images{
+    width: 200px;
+}
+
+
+
+/* .button{
+    background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 16px;
+  font-size: 16px;
+  cursor: pointer;
+
+}
+
+.button:hover{
+    background-color: blue; */
+
+
+/* input {
+    padding: 14px;
+    width: 300px;
+    border-radius: 5px;
+    border: 2px solid #eee;
+}
+input:focus{
+    border: 2px solid #eee;
+    outline: none;
+}
+input::placeholder{
+    font-size: 18px;
+}
+
+     */
+
+div3{
+    color: #eee;
+    font-style: oblique;
+}
